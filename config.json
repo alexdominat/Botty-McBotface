@@ -1,0 +1,13 @@
+{
+    "guild" : "",
+    "token" : "",
+    "geniuses" : "",
+    "moderators" : "",
+    "parent" : "",
+    "archive_channel" : "",
+    "message_deletion_time" : 6000,
+    "prefix" : "!",
+    "db_name" : "database",
+    "website" : "",
+    "tickets_dir" : "/jbdiscord/tickets/"
+}
